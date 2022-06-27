@@ -6,3 +6,20 @@ DATE:21/06/2022
 
 QR-code Project done in 48hrs.
 23/06/2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LIVE SITE: https://gamajuniorqrcode.netlify.app/
